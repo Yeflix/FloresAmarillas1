@@ -21,6 +21,7 @@ body {
 }
 
 .feliz {
+  margin: 2%;
   position: fixed;
   z-index: 200;
   top: 100px;
@@ -32,9 +33,7 @@ body {
 }
 
 audio{
-  width: 200px;
-  position: absolute;
-  margin: 50px;
+  width: 1%;
 }
 .night {
   position: fixed;
