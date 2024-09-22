@@ -25,6 +25,7 @@ body {
   position: fixed;
   z-index: 200;
   top: 100px;
+  text-align: center;
 }
 .feliz > span {
   color: #3AF4DA;
